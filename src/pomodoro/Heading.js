@@ -26,7 +26,7 @@ function Heading({session, focusDuration, breakDuration, isTimerRunning, setSess
         breakDuration < 15 && 
             setBreakDuration((currentDuration)=> currentDuration+1)
         }
-        // TODO: I'd like to create a button component that can be called with different variables because they are so similarn
+        
     return (
         <div>
             <div className="row">
