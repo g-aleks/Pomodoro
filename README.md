@@ -4,7 +4,7 @@ This app was created using React and Nodejs. It is a new take on the classic Pom
 
 Break Time: 1 minute - 15 minutes
 
-Work Time: 5 minutes - 50 minutes
+Work Time: 5 minutes - 60 minutes
 ## Run Locally
 
 Clone the project
