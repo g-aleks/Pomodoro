@@ -1,4 +1,4 @@
-# Flashcards App
+# Pomodoro Timer
 
 This app was created using React and Nodejs. It is a new take on the classic Pomodoro timer that allows break and work times to be customized. 
 
